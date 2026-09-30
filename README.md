@@ -1,5 +1,5 @@
 Hi, I'm Juwairya Alnajjar 👋
-### Communication & Information Engineering Student | Full-Stack Developer
+### Communication & Information Engineering Student
 
 I'm a third-year Communication & Information Engineering student at Zewail City of Science and Technology, building at the intersection of software, embedded systems, and signal processing.
 
